@@ -89,8 +89,8 @@ PythonProject/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/task-management-api.git
-cd task-management-api/PythonProject
+git clone https://github.com/ablondu21/PyProjectAPI
+cd PyProjectAPI
 ```
 
 ### 2. Set up a virtual environment

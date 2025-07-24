@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+motor
+pydantic
+python-dotenv
+flake8
+black
+bcrypt==4.0.1
+passlib
+python-jose[cryptography]
+
+
